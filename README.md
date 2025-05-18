@@ -3,9 +3,9 @@
 My name is Cecil, and I am an IT professional focused on cybersecurity, automation, and compliance. I build secure solutions with Python, Terraform, Bash, and industry best practices. 
 
 - 🔭 I’m currently working on creating and deploying API's in Python
-- 🌱 I’m currently learning API development and security
-- 👯 I’m looking to collaborate on Web Dev / DevOps / Security project
-- 📫 How to reach me: https://www.linkedin.com/in/cecilkbm/
+- 📚 I’m currently learning API development and security
+- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/@CloudNenUser) / CTF's / Web Dev / DevOps / Security project
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/)
 
 
 
