@@ -1,4 +1,7 @@
-## Hi there 👋 Welcome To My Github Page!
+## Hi there, welcome To My Github Page!
+
+My name is Cecil, and I am an IT professional focused on cybersecurity, automation, and compliance. I build secure solutions with Python, Terraform, Bash, and industry best practices. 
+
 - 🔭 I’m currently working on creating and deploying API's in Python
 - 🌱 I’m currently learning API development and security
 - 👯 I’m looking to collaborate on Web Dev / DevOps / Security project
