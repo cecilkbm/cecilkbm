@@ -1,11 +1,12 @@
 ## Hi there, welcome to my GitHub page!
 
-My name is Cecil, and I am an IT professional focused on cybersecurity, automation, and compliance. I build secure solutions with Python, Terraform, Ansible, Bash, and industry best practices. 
+My name is Cecil, and I am an IT professional focused on cybersecurity, automation, and compliance. I build secure solutions with Python, Terraform, Ansible and Bash based on industry best practices. 
 
-- 🔭 I’m currently working on creating and deploying API's in Python
-- 📚 I’m currently learning API development and security
-- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/@CloudNenUser) / CTF's / Web Dev / DevOps / Security project
+- 🔭 I am currently working on developing custom security tools and automation.
+- 📚 I am also a grad student and a cyber fellow at New York University.
+- 👯 I’m looking to collaborate on CTF's / Web Dev / DevOps / Security projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/)
+- [YouTube](https://www.youtube.com/@CloudNenUser)
 
 
 
