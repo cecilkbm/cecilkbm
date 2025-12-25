@@ -5,8 +5,7 @@ My name is Cecil, and I am an IT professional with a focus in cybersecurity and 
 - 🔭 I am currently working on developing custom security tools and automation.
 - 📚 I am also a grad student and a cyber fellow at New York University.
 - 👯 I’m looking to collaborate on CTF's / Web Dev / DevOps / Security projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/)
-- [YouTube](https://www.youtube.com/@CloudNenUser)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/) , [YouTube](https://www.youtube.com/@CloudNenUser)
 
 
 
