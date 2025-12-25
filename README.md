@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub page!
 
-My name is Cecil, and I am an IT professional focused on cybersecurity, automation, and compliance. I build secure solutions with Python, Terraform, Ansible and Bash based on industry best practices. 
+My name is Cecil, and I am an IT professional with a focus in cybersecurity and infrastructure automation. I build secure solutions with Python, Terraform, Ansible and Bash based on industry best practices. 
 
 - 🔭 I am currently working on developing custom security tools and automation.
 - 📚 I am also a grad student and a cyber fellow at New York University.
