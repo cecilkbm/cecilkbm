@@ -1,6 +1,6 @@
 ## Hi and welcome!
 
-I'm Cecil a Grad Student and Cyber Fellow at NYU, working as a Senior IT Consultant based in New York.
+I'm Cecil a Grad Student and Cyber Fellow at NYU, currently working as a Senior IT Consultant based in New York.
 
 I build and secure whatever needs building and securing.
 
