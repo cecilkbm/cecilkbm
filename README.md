@@ -1,11 +1,26 @@
-## Hi there, welcome to my GitHub page!
+## Hi and welcome!
 
-My name is Cecil, and I am an IT professional with a focus in cybersecurity and infrastructure automation. I build secure solutions with Python, Terraform, Ansible and Bash based on industry best practices. 
+I'm Cecil a Grad Student and Cyber Fellow at NYU, working as a Senior IT Consultant based in New York.
 
-- 🔭 I am currently working on developing custom security tools and automation.
-- 📚 I am also a grad student and a cyber fellow at New York University.
-- 👯 I’m looking to collaborate on CTF's / Web Dev / DevOps / Security projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/) [YouTube](https://www.youtube.com/@CloudNenUser)
+I build and secure whatever needs building and securing.
+
+If there's a cybersecurity challenge or infrastructure problem, chances are I'll tackle it head-on.
+
+My main tech stack is Python, Terraform / HCL, Ansible, C, C++, JavaScript, and React. I'm equally comfortable automating infrastructure, writing low-level code, or building web applications.
+
+I'm passionate about cybersecurity, infrastructure automation, and creating robust solutions that actually work in the real world.
+
+Currently balancing grad school, research, and consulting work - it's a wild ride but I love every minute of it.
+
+Fun Facts:
+  - I'm always reading something (tech books, research papers, or fiction to decompress).
+  - You'll find me at tech conferences networking and learning about the latest in security and infrastructure.
+  - CTF competitions are my thing - nothing beats the thrill of capturing that flag.
+  - Anime enthusiast (because every good hacker needs a solid watch list).
+  - I believe the best security solutions are the ones that don't get in people's way.
+
+👯 I’m looking to collaborate on CTF's / Web Dev / DevOps / Security projects
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/) [YouTube](https://www.youtube.com/@CloudNenUser)
 
 
 
