@@ -10,7 +10,7 @@ My main tech stack is Python, Terraform / HCL, Ansible, C, C++, JavaScript, and 
 
 I'm passionate about cybersecurity, infrastructure automation, and creating robust solutions that actually work in the real world.
 
-Currently balancing grad school, research, and consulting work - it's a wild ride but I love every minute of it.
+Currently balancing grad school, research, and work. it's a wild ride but I love every minute of it!
 
 Fun Facts:
   - I'm always reading something (tech books, research papers, or fiction to decompress).
