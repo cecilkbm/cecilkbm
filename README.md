@@ -2,7 +2,6 @@
 
 **` Developer | Infrastructure Engineering | Cybersecurity `**
 
-I'm a Senior IT Consultant based in New York.
 I build and secure whatever needs building and securing.
 If there's a cybersecurity challenge or infrastructure problem, chances are I'll tackle it head-on.
 My main tech stack is Python, C, C++, JavaScript, React, Terraform and Ansible. I'm equally comfortable automating infrastructure, writing low-level code, or building web applications.
