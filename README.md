@@ -1,4 +1,4 @@
-## Hi and welcome!
+# Hi and welcome!
 
 I'm Cecil a Grad Student and Cyber Fellow at NYU, currently working as a Senior IT Consultant based in New York.
 
@@ -23,7 +23,7 @@ Fun Facts:
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/) [YouTube](https://www.youtube.com/@CloudNenUser)
 
-🔧 Languages & Tools
+# 🔧 Languages & Tools
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/> </p>
 
 
