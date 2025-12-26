@@ -24,7 +24,7 @@ Currently balancing grad school, research, and work. it's a wild ride but I love
 ### 🤝 I’m looking to collaborate on CTFs / Web Dev, DevOps & Security Engineering projects.
 
 ## 📫 How to reach me 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/cecilkbm)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/cecilkbm)
 
 
 
