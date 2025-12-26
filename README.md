@@ -1,6 +1,6 @@
-# Hi and welcome!
+# 👓 Cecil Boamah-Mensah
 
-I'm Cecil a Senior IT Consultant based in New York.
+I'm a Senior IT Consultant based in New York.
 
 I build and secure whatever needs building and securing.
 
