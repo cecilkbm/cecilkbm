@@ -1,4 +1,4 @@
-# 🦓 Cecil Boamah-Mensah
+# Cecil Boamah-Mensah 🦓
 
 **` Infrastructure Engineering | Cybersecurity `**
 
