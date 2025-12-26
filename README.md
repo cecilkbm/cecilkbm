@@ -19,7 +19,7 @@ Fun Facts:
   - Anime enthusiast (because every good hacker needs a solid watch list).
   - I believe the best security solutions are the ones that don't get in people's way.
 
-👯 I’m looking to collaborate on CTF's / Web Dev / DevOps / Security projects
+👯 I’m looking to collaborate on CTF's / Web Dev, DevOps & Security projects.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cecilkbm/) [YouTube](https://www.youtube.com/@CloudNenUser)
 
