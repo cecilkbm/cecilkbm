@@ -31,7 +31,7 @@ Currently balancing grad school, research, and work. it's a wild ride but I love
   - I believe the best security solutions are the ones that don't get in people's way.
 
 
-### 🤝 I’m looking to collaborate on CTFs, Bug Bounties/ Web Dev, DevOps & Security Engineering projects.
+### 🤝 I’m looking to collaborate on CTFs, Bug Bounties and Projects (Web Dev, DevOps & Infrastructure / Security Engineering)
 
 ## 📫 How to reach me 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/cecilkbm)
