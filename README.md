@@ -9,7 +9,7 @@ My main tech stack is Python, C, C++, JavaScript, React, Terraform and Ansible. 
 I'm passionate about cybersecurity, infrastructure automation, and creating robust solutions that actually work in the real world.
 Currently balancing grad school, research, and work. it's a wild ride but I love every minute of it!
 
-#
+---
 
 ## 🧰 Languages and Tools
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right:12px;"/> 
