@@ -1,5 +1,7 @@
 # 👓 Cecil Boamah-Mensah
 
+**` Infrastructure Engineering | Cybersecurity `**
+
 I'm a Senior IT Consultant based in New York.
 
 I build and secure whatever needs building and securing.
