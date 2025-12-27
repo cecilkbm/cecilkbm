@@ -1,4 +1,4 @@
-# Cecil Boamah-Mensah 
+# Cecil
 
 **` Developer | Infrastructure Engineering | Cybersecurity `**
 
