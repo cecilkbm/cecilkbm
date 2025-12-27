@@ -48,8 +48,30 @@ Currently balancing grad school, research, and work. It's a wild ride but I love
 
 #
 
+## Certifications
+<a href="https://www.credly.com/badges/c6d47832-7a58-4df8-a575-d939fe231271/public_url" target="_blank" rel="noopener noreferrer">
+  <img width="100" height="100" alt="red-hat-certified-engineer-rhce"
+       src="https://github.com/user-attachments/assets/45a4f580-530b-44af-a984-3e5f6865e143" />
+</a>
+<a href="https://www.credly.com/badges/d04da5b6-e462-429f-bf06-e1a1dbb616b3/public_url" target="_blank" rel="noopener noreferrer">
+  <img width="100" height="100" alt="giac-cloud-penetration-tester-gcpn"
+       src="https://github.com/user-attachments/assets/b07da7f8-775c-48b4-a672-515cc83d9be2" />
+</a>
+<a href="https://www.credly.com/badges/047b51fa-115a-4be3-b9df-7f800c003449/public_url" target="_blank" rel="noopener noreferrer">
+  <img width="100" height="100" alt="comptia-security-ce-certification"
+       src="https://github.com/user-attachments/assets/9e24a829-dff2-4e61-a1cf-9843064914a4" />
+</a>
+<a href="https://www.credly.com/badges/26a2fb2e-c356-49ea-9764-c7c610a68667/public_url" target="_blank" rel="noopener noreferrer">
+  <img width="100" height="100" alt="hashicorp-certified-terraform-associate-003"
+       src="https://github.com/user-attachments/assets/6e4eac0c-ae2f-4a37-9235-edbc11553070" />
+</a>
+<a href="https://www.credly.com/badges/d05e12a6-326a-4bf7-854f-80b4765c3082/public_url" target="_blank" rel="noopener noreferrer">
+  <img width="100" height="100" alt="aws-certified-cloud-practitioner"
+       src="https://github.com/user-attachments/assets/7782310d-c49f-48b4-8751-30298521d58c" />
+</a>
 
 
+#
 
 <!--
 **cecilkbm/cecilkbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
