@@ -48,7 +48,7 @@ Currently balancing grad school, research, and work. It's a wild ride but I love
 
 #
 
-## Certifications
+## 🏅 Certifications
 <a href="https://www.credly.com/badges/c6d47832-7a58-4df8-a575-d939fe231271/public_url" target="_blank" rel="noopener noreferrer">
   <img width="100" height="100" alt="red-hat-certified-engineer-rhce"
        src="https://github.com/user-attachments/assets/45a4f580-530b-44af-a984-3e5f6865e143" />
