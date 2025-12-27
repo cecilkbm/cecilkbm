@@ -43,7 +43,7 @@ Currently balancing grad school, research, and work. It's a wild ride but I love
 #
 
 ## 🔴 YouTube
-[![Incident Handling with Splunk](https://ytcards.demolab.com/?id=JjDuWyXiqdw&title=Incident+Handling+with+Splunk&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Incident Handling with Splunk")](https://www.youtube.com/watch?v=JjDuWyXiqdw)
+[![Incident Handling with Splunk](https://ytcards.demolab.com/?id=JjDuWyXiqdw&title=Incident+Handling+with+Splunk&lang=en&timestamp=1640563200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Incident Handling with Splunk")](https://www.youtube.com/watch?v=JjDuWyXiqdw)
 [![Deploying Thales CipherTrust Manager in Azure](https://ytcards.demolab.com/?id=V_rwkhnSNH0&title=Deploying+Thales+CipherTrust+Manager+in+Azure&lang=en&timestamp=1735251631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Deploying Thales CipherTrust Manager in Azure")](https://www.youtube.com/watch?v=V_rwkhnSNH0)
 
 #
