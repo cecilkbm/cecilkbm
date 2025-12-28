@@ -8,6 +8,7 @@ My main tech stack is Python, C++, JavaScript, React, Terraform and Ansible. I'm
 I'm passionate about cybersecurity, infrastructure automation, and creating robust solutions that actually work in the real world.
 Currently balancing grad school, research, and work. It's a wild ride but I love every minute of it!
 
+
 ---
 
 ## 🧰 Languages and Tools
@@ -30,6 +31,8 @@ Currently balancing grad school, research, and work. It's a wild ride but I love
   - CTF competitions are my thing - nothing beats the thrill of capturing that flag.
   - Anime enthusiast (because every good hacker needs a solid watch list).
   - I believe the best security solutions are the ones that don't get in people's way.
+
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nostripeszebra.png" alt="Your Image Badge" />
 
 #
 
@@ -68,6 +71,9 @@ Currently balancing grad school, research, and work. It's a wild ride but I love
   <img width="100" height="100" alt="aws-certified-cloud-practitioner"
        src="https://github.com/user-attachments/assets/7782310d-c49f-48b4-8751-30298521d58c" />
 </a>
+
+#
+
 
 
 #
