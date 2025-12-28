@@ -1,4 +1,4 @@
-# Cecil
+# Cecil a.k.a Nostripeszebra
 
 **` Developer | Infrastructure Engineering | Cybersecurity `**
 
