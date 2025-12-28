@@ -37,7 +37,7 @@ Currently balancing grad school, research, and work. It's a wild ride but I love
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/cecilkbm)
 
 
-🤝 I’m looking to collaborate on CTFs, Bug Bounties and Projects (Web Dev, DevOps & Infrastructure / Security Engineering)
+🤝 I’m looking to collaborate on CTFs, Bug Bounties and Projects (Web Dev, DevOps, Pentesting & Infrastructure / Security Engineering)
 
 #
 
