@@ -30,9 +30,6 @@ Currently balancing grad school, research, and career. It's a wild ride but I lo
   - You'll find me at tech conferences networking and learning about the latest in security and infrastructure.
   - CTF competitions are my thing - nothing beats the thrill of capturing that flag.
   - Anime enthusiast (because every good hacker needs a solid watch list).
-
-    <img src="https://tryhackme-badges.s3.amazonaws.com/nostripeszebra.png" alt="Your Image Badge" />
-
 #
 
 ## 📫 How to reach me 
