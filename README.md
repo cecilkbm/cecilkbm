@@ -63,10 +63,6 @@ Currently balancing grad school, research, and career. It's a wild ride but I lo
   <img width="100" height="100" alt="hashicorp-certified-terraform-associate-003"
        src="https://github.com/user-attachments/assets/6e4eac0c-ae2f-4a37-9235-edbc11553070" />
 </a>
-<a href="https://www.credly.com/badges/d05e12a6-326a-4bf7-854f-80b4765c3082/public_url" target="_blank" rel="noopener noreferrer">
-  <img width="100" height="100" alt="aws-certified-cloud-practitioner"
-       src="https://github.com/user-attachments/assets/7782310d-c49f-48b4-8751-30298521d58c" />
-</a>
 
 #
 
