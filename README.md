@@ -1,6 +1,6 @@
 # Cecil a.k.a Nostripeszebra
 
-**` Developer | Infrastructure Engineering | Cybersecurity `**
+**` Developer | Infrastructure Engineer | Cybersecurity Professional `**
 
 I build and secure whatever needs building and securing.
 If there's a cybersecurity challenge or infrastructure problem, chances are I'll tackle it head-on.
