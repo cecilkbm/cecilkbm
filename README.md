@@ -30,6 +30,7 @@ Currently balancing grad school, research, and career. It's a wild ride but I lo
   - You'll find me at tech conferences networking and learning about the latest in security and infrastructure.
   - CTF competitions are my thing - nothing beats the thrill of capturing that flag.
   - Anime enthusiast (because every good hacker needs a solid watch list).
+  - Currently learning Agentic AI Engineering (Projects coming soon!)
 #
 
 ## 📫 How to reach me 
