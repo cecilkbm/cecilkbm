@@ -4,9 +4,10 @@
 
 I build and secure whatever needs building and securing.
 If there's a cybersecurity challenge or infrastructure problem, chances are I'll tackle it head-on.
-My main tech stack is Python, Bash, C++, JavaScript, React, Terraform and Ansible. I'm equally comfortable automating infrastructure, writing low-level code, or building web applications.
+
+I'm equally comfortable automating infrastructure, writing low-level code, or building web applications.
 I'm passionate about cybersecurity, infrastructure automation, and creating robust solutions that actually work in the real world.
-Currently balancing grad school, research, and career. It's a wild ride but I love every minute of it!
+Currently balancing grad school, research, and my career. It's a wild ride but I love every minute of it!
 
 
 ---
