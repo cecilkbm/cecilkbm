@@ -4,9 +4,9 @@
 
 I build and secure whatever needs building and securing.
 
-I'm equally comfortable automating infrastructure, writing low-level code, or building web applications.
-I'm passionate about cybersecurity, infrastructure automation, and creating robust solutions that actually work in the real world.
-Currently balancing grad school, research, and my career. It's a wild ride but I love every minute of it!
+I'm equally comfortable automating infrastructure, writing code, or building web applications.
+I'm passionate about technology and creating robust solutions that actually work in the real world.
+Currently balancing grad school, research, and career.
 
 I started my coding journey in 2009 with C as the first programming language I learned.
 
