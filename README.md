@@ -3,7 +3,6 @@
 **` Developer | Infrastructure Engineer | Application Security `**
 
 I build and secure whatever needs building and securing.
-If there's a cybersecurity challenge or infrastructure problem, chances are I'll tackle it head-on.
 
 I'm equally comfortable automating infrastructure, writing low-level code, or building web applications.
 I'm passionate about cybersecurity, infrastructure automation, and creating robust solutions that actually work in the real world.
