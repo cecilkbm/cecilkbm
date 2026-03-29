@@ -61,10 +61,6 @@ I started my coding journey in 2009 with C as the first programming language I l
   <img width="100" height="100" alt="comptia-security-ce-certification"
        src="https://github.com/user-attachments/assets/9e24a829-dff2-4e61-a1cf-9843064914a4" />
 </a>
-<a href="https://www.credly.com/badges/26a2fb2e-c356-49ea-9764-c7c610a68667/public_url" target="_blank" rel="noopener noreferrer">
-  <img width="100" height="100" alt="hashicorp-certified-terraform-associate-003"
-       src="https://github.com/user-attachments/assets/6e4eac0c-ae2f-4a37-9235-edbc11553070" />
-</a>
 
 #
 
